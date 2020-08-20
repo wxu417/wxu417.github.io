@@ -1,2 +1,2 @@
 # Personal Blog
-Open in https://wxu417.github.io/
+Click <a href="https://wxu417.github.io/" target="view_window">here</a> to open.
