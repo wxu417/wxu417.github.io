@@ -1,2 +1,2 @@
 # Personal Blog
-Open in wxu417.github.io
+Open in https://wxu417.github.io/
